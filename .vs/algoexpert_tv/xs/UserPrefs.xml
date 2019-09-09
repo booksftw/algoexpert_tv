@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{D184E24D-43D1-4142-AF66-128CB275E6F8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="algoexpert_tv/Algorithms/AlgoExpert/TwoNumberSum/EmptyCSharpFile.cs">
+    <Files>
+      <File FileName="algoexpert_tv/Program.cs" Line="15" Column="13" />
+      <File FileName="algoexpert_tv/Workers/Hostess.cs" Line="22" Column="18" />
+      <File FileName="algoexpert_tv/Algorithms/AlgoEngine.cs" Line="11" Column="1" />
+      <File FileName="algoexpert_tv/Algorithms/IAlgorithm.cs" Line="8" Column="1" />
+      <File FileName="algoexpert_tv/Algorithms/AlgoExpert/TwoNumberSum.cs" Line="12" Column="48" />
+      <File FileName="algoexpert_tv/Algorithms/AlgoExpert/TwoNumberSum/EmptyCSharpFile.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="algoexpert_tv" expanded="True">
+            <Node name="algoexpert_tv" expanded="True">
+              <Node name="Algorithms" expanded="True">
+                <Node name="AlgoExpert" expanded="True">
+                  <Node name="TwoNumberSum" expanded="True">
+                    <Node name="EmptyCSharpFile.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Workers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.algoexpert__tv PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

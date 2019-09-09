@@ -1,0 +1,11 @@
+/Users/nick/Projects/algoexpert_tv/algoexpert_tv/bin/Debug/netcoreapp2.1/algoexpert_tv.deps.json
+/Users/nick/Projects/algoexpert_tv/algoexpert_tv/bin/Debug/netcoreapp2.1/algoexpert_tv.runtimeconfig.json
+/Users/nick/Projects/algoexpert_tv/algoexpert_tv/bin/Debug/netcoreapp2.1/algoexpert_tv.runtimeconfig.dev.json
+/Users/nick/Projects/algoexpert_tv/algoexpert_tv/bin/Debug/netcoreapp2.1/algoexpert_tv.dll
+/Users/nick/Projects/algoexpert_tv/algoexpert_tv/bin/Debug/netcoreapp2.1/algoexpert_tv.pdb
+/Users/nick/Projects/algoexpert_tv/algoexpert_tv/obj/Debug/netcoreapp2.1/algoexpert_tv.csprojAssemblyReference.cache
+/Users/nick/Projects/algoexpert_tv/algoexpert_tv/obj/Debug/netcoreapp2.1/algoexpert_tv.csproj.CoreCompileInputs.cache
+/Users/nick/Projects/algoexpert_tv/algoexpert_tv/obj/Debug/netcoreapp2.1/algoexpert_tv.AssemblyInfoInputs.cache
+/Users/nick/Projects/algoexpert_tv/algoexpert_tv/obj/Debug/netcoreapp2.1/algoexpert_tv.AssemblyInfo.cs
+/Users/nick/Projects/algoexpert_tv/algoexpert_tv/obj/Debug/netcoreapp2.1/algoexpert_tv.dll
+/Users/nick/Projects/algoexpert_tv/algoexpert_tv/obj/Debug/netcoreapp2.1/algoexpert_tv.pdb

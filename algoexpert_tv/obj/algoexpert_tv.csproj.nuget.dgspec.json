@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nick/Projects/algoexpert_tv/algoexpert_tv/algoexpert_tv.csproj": {}
+  },
+  "projects": {
+    "/Users/nick/Projects/algoexpert_tv/algoexpert_tv/algoexpert_tv.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nick/Projects/algoexpert_tv/algoexpert_tv/algoexpert_tv.csproj",
+        "projectName": "algoexpert_tv",
+        "projectPath": "/Users/nick/Projects/algoexpert_tv/algoexpert_tv/algoexpert_tv.csproj",
+        "packagesPath": "/Users/nick/.nuget/packages/",
+        "outputPath": "/Users/nick/Projects/algoexpert_tv/algoexpert_tv/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/nick/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
